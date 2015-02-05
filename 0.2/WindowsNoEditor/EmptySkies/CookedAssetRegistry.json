@@ -3,7 +3,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorResources/S_Actor",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorResources/S_Actor.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorResources/S_Actor.S_Actor",
@@ -31,7 +31,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorLandscapeResources/DataLayer",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorLandscapeResources/DataLayer.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorLandscapeResources/DataLayer.DataLayer",
@@ -50,7 +50,7 @@
 		{
 			"SourcePackageName": "/Engine/Maps/Templates/Thumbnails/Default",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Maps/Templates/Thumbnails/Default.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Maps/Templates/Thumbnails/Default.Default",
@@ -78,7 +78,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.PSysThumbnail_NoImage",
@@ -106,7 +106,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.PSysThumbnail_OOD",
@@ -134,7 +134,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental.DmgTypeBP_Environmental",
@@ -161,7 +161,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMeshes/Sphere",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMeshes/Sphere.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMeshes/Sphere.Sphere",
@@ -186,7 +186,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineFonts/RobotoDistanceField",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/RobotoDistanceField.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineFonts/RobotoDistanceField.RobotoDistanceField",
@@ -204,7 +204,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultTextMaterialOpaque.DefaultTextMaterialOpaque",
@@ -227,7 +227,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.PowerToRoughness",
@@ -250,7 +250,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.ConvertFromDiffSpec",
@@ -273,7 +273,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/WorldGridMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/WorldGridMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial",
@@ -296,7 +296,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade",
@@ -319,7 +319,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M",
@@ -347,7 +347,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/T_Default_Material_Grid_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N",
@@ -375,7 +375,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial",
@@ -398,7 +398,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultDiffuse",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultDiffuse.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse",
@@ -426,7 +426,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultLightFunctionMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultLightFunctionMaterial.DefaultLightFunctionMaterial",
@@ -449,7 +449,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultPostProcessMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultPostProcessMaterial.DefaultPostProcessMaterial",
@@ -472,7 +472,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.BreakOutFloat2Components",
@@ -495,7 +495,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorResources/S_Trigger",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorResources/S_Trigger.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorResources/S_Trigger.S_Trigger",
@@ -523,7 +523,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/WhiteSquareTexture",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/WhiteSquareTexture.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/WhiteSquareTexture.WhiteSquareTexture",
@@ -551,7 +551,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/GradientTexture0",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/GradientTexture0.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/GradientTexture0.GradientTexture0",
@@ -579,7 +579,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/Black",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/Black.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/Black.Black",
@@ -607,7 +607,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float.MAT_Groups_Float",
@@ -635,7 +635,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director.MAT_Groups_Director",
@@ -663,7 +663,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event.MAT_Groups_Event",
@@ -691,7 +691,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim.MAT_Groups_Anim",
@@ -719,7 +719,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade.MAT_Groups_Fade",
@@ -747,7 +747,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move.MAT_Groups_Move",
@@ -775,7 +775,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.MAT_Groups_Slomo",
@@ -803,7 +803,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack.MAT_ColorTrack",
@@ -831,7 +831,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MAT_Groups_Toggle",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MAT_Groups_Toggle.MAT_Groups_Toggle",
@@ -859,7 +859,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.MAT_Groups_AudioMaster",
@@ -887,7 +887,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound.MAT_Groups_Sound",
@@ -915,7 +915,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector.MAT_Groups_Vector",
@@ -943,7 +943,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/MAT_Groups_Visibility",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/MAT_Groups_Visibility.MAT_Groups_Visibility",
@@ -971,7 +971,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/DefaultTexture",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTexture.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/DefaultTexture.DefaultTexture",
@@ -999,7 +999,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineResources/DefaultTextureCube",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineResources/DefaultTextureCube.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineResources/DefaultTextureCube.DefaultTextureCube",
@@ -1024,7 +1024,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Master",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Master.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Master.Master",
@@ -1042,7 +1042,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Music",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Music.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Music.Music",
@@ -1060,7 +1060,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/SFX",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/SFX.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/SFX.SFX",
@@ -1078,7 +1078,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Normal_Attack",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Normal_Attack.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Normal_Attack.Normal_Attack",
@@ -1096,7 +1096,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Special_Attack_PSM",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Special_Attack_PSM.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Special_Attack_PSM.Special_Attack_PSM",
@@ -1114,7 +1114,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod.Duck_Normal_Attack_MixMod",
@@ -1133,7 +1133,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineSounds/Voice",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineSounds/Voice.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineSounds/Voice.Voice",
@@ -1151,7 +1151,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMeshes/Cylinder",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMeshes/Cylinder.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMeshes/Cylinder.Cylinder",
@@ -1176,7 +1176,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultMaterial.DefaultMaterial",
@@ -1199,7 +1199,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineTireTypes/DefaultTireType",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineTireTypes/DefaultTireType.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineTireTypes/DefaultTireType.DefaultTireType",
@@ -1217,7 +1217,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineFonts/Roboto",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineFonts/Roboto.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineFonts/Roboto.Roboto",
@@ -1235,7 +1235,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent.Widget3DPassThrough_Translucent",
@@ -1255,7 +1255,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough.Widget3DPassThrough",
@@ -1278,7 +1278,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.Widget3DPassThrough_Translucent_OneSided",
@@ -1298,7 +1298,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque.Widget3DPassThrough_Opaque",
@@ -1318,7 +1318,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.Widget3DPassThrough_Opaque_OneSided",
@@ -1338,7 +1338,7 @@
 		{
 			"SourcePackageName": "/Paper2D/MaskedUnlitSpriteMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/MaskedUnlitSpriteMaterial.MaskedUnlitSpriteMaterial",
@@ -1358,7 +1358,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DefaultSpriteMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DefaultSpriteMaterial.DefaultSpriteMaterial",
@@ -1381,7 +1381,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DummySpriteTexture",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DummySpriteTexture.DummySpriteTexture",
@@ -1409,7 +1409,7 @@
 		{
 			"SourcePackageName": "/Paper2D/OpaqueUnlitSpriteMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/OpaqueUnlitSpriteMaterial.OpaqueUnlitSpriteMaterial",
@@ -1429,7 +1429,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DefaultPaperTerrainMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DefaultPaperTerrainMaterial.DefaultPaperTerrainMaterial",
@@ -1447,7 +1447,7 @@
 		{
 			"SourcePackageName": "/Paper2D/DummySprite",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Paper2D/DummySprite.DummySprite",
@@ -1469,7 +1469,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/RemoveSurfaceMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/RemoveSurfaceMaterial.RemoveSurfaceMaterial",
@@ -1492,7 +1492,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineDebugMaterials/DebugMeshMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineDebugMaterials/DebugMeshMaterial.DebugMeshMaterial",
@@ -1515,7 +1515,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/M_InvalidLightmapSettings",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/M_InvalidLightmapSettings.M_InvalidLightmapSettings",
@@ -1538,7 +1538,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/InvalidLightmapSettings",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/InvalidLightmapSettings.InvalidLightmapSettings",
@@ -1566,7 +1566,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMaterials/GizmoMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMaterials/GizmoMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMaterials/GizmoMaterial.GizmoMaterial",
@@ -1589,7 +1589,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq",
@@ -1617,7 +1617,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultBokeh",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultBokeh.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.58",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultBokeh.DefaultBokeh",
@@ -1645,7 +1645,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/PreintegratedSkinBRDF",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/PreintegratedSkinBRDF.PreintegratedSkinBRDF",
@@ -1673,7 +1673,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/MiniFont",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/MiniFont.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/MiniFont.MiniFont",
@@ -1701,7 +1701,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/WeightMapPlaceholderTexture",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture",
@@ -1729,7 +1729,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultWhiteGrid",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid",
@@ -1757,7 +1757,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultPhysicalMaterial",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultPhysicalMaterial.DefaultPhysicalMaterial",
@@ -1775,7 +1775,7 @@
 		{
 			"SourcePackageName": "/Game/Fonts/triggering_fanfares",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Fonts/triggering_fanfares.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.22",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Fonts/triggering_fanfares.triggering_fanfares",
@@ -1793,7 +1793,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb.VirtualJoystick_Thumb",
@@ -1822,7 +1822,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/VirtualJoystick_Background.VirtualJoystick_Background",
@@ -1851,7 +1851,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter.T_Castle_ThumbstickOutter",
@@ -1880,7 +1880,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/T_Castle_ThumbstickInner",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/T_Castle_ThumbstickInner.T_Castle_ThumbstickInner",
@@ -1909,7 +1909,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionStick",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionStick.MobileHUDDirectionStick",
@@ -1937,7 +1937,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad3",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad3.MobileHUDDirectionPad3",
@@ -1965,7 +1965,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad2",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad2.MobileHUDDirectionPad2",
@@ -1993,7 +1993,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDDirectionPad",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDDirectionPad.MobileHUDDirectionPad",
@@ -2021,7 +2021,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButtonFire",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButtonFire.MobileHUDButtonFire",
@@ -2049,7 +2049,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton3",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton3.MobileHUDButton3",
@@ -2077,7 +2077,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_on",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton2_on.MobileHUDButton2_on",
@@ -2105,7 +2105,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton2_off",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton2_off.MobileHUDButton2_off",
@@ -2133,7 +2133,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_on",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton1_on.MobileHUDButton1_on",
@@ -2161,7 +2161,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/MobileHUDButton1_off",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/MobileHUDButton1_off.MobileHUDButton1_off",
@@ -2189,7 +2189,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/LeftVirtualJoystickOnly",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/LeftVirtualJoystickOnly.LeftVirtualJoystickOnly",
@@ -2207,7 +2207,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks",
@@ -2225,7 +2225,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/HUD/AnalogHat",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/HUD/AnalogHat.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/HUD/AnalogHat.AnalogHat",
@@ -2253,7 +2253,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/T_MobileMenu2",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/T_MobileMenu2.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/T_MobileMenu2.T_MobileMenu2",
@@ -2281,7 +2281,7 @@
 		{
 			"SourcePackageName": "/Engine/MobileResources/T_MobileControls_texture",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/MobileResources/T_MobileControls_texture.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/MobileResources/T_MobileControls_texture.T_MobileControls_texture",
@@ -2309,7 +2309,7 @@
 		{
 			"SourcePackageName": "/Game/Widgets/Menu_Multiplayer",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Widgets/Menu_Multiplayer.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Widgets/Menu_Multiplayer.Menu_Multiplayer",
@@ -2337,7 +2337,7 @@
 		{
 			"SourcePackageName": "/Game/Widgets/Menu_Main",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Widgets/Menu_Main.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Widgets/Menu_Main.Menu_Main",
@@ -2365,7 +2365,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/LevelBlueprints/NoplayerGameMode",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/LevelBlueprints/NoplayerGameMode.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/LevelBlueprints/NoplayerGameMode.NoplayerGameMode",
@@ -2393,7 +2393,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/FrozenCharacter",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/FrozenCharacter.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/FrozenCharacter.FrozenCharacter",
@@ -2421,7 +2421,7 @@
 		{
 			"SourcePackageName": "/Engine/Maps/Entry",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Maps/Entry.umap",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Maps/Entry.Entry",
@@ -2439,7 +2439,7 @@
 		{
 			"SourcePackageName": "/Engine/EngineMaterials/DefaultNormal",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EngineMaterials/DefaultNormal.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EngineMaterials/DefaultNormal.DefaultNormal",
@@ -2468,7 +2468,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_CMask",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_CMask.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_CMask.MFUN_CMask",
@@ -2491,7 +2491,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_PolarCoord",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_PolarCoord.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_PolarCoord.MFUN_PolarCoord",
@@ -2514,7 +2514,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_XYSplit",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_XYSplit.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_XYSplit.MFUN_XYSplit",
@@ -2537,7 +2537,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Textures/SK_Noise01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Textures/SK_Noise01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Textures/SK_Noise01.SK_Noise01",
@@ -2566,7 +2566,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_StarSurfaceCM03",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_StarSurfaceCM03.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_StarSurfaceCM03.MIC_StarSurfaceCM03",
@@ -2586,7 +2586,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Materials/MAT_StarSurface",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Materials/MAT_StarSurface.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Materials/MAT_StarSurface.MAT_StarSurface",
@@ -2609,7 +2609,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_DistAtmo",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_DistAtmo.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_DistAtmo.MFUN_DistAtmo",
@@ -2632,7 +2632,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_Fluid",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_Fluid.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_Fluid.MFUN_Fluid",
@@ -2655,7 +2655,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_XYZCoord",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_XYZCoord.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_XYZCoord.MFUN_XYZCoord",
@@ -2678,7 +2678,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Textures/SK_SurfaceDetail01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Textures/SK_SurfaceDetail01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Textures/SK_SurfaceDetail01.SK_SurfaceDetail01",
@@ -2707,7 +2707,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Textures/SK_SurfaceFlow",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Textures/SK_SurfaceFlow.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Textures/SK_SurfaceFlow.SK_SurfaceFlow",
@@ -2736,7 +2736,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Textures/StarActivity_Mask",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Textures/StarActivity_Mask.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Textures/StarActivity_Mask.StarActivity_Mask",
@@ -2765,7 +2765,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarCoronaPlate",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarCoronaPlate.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarCoronaPlate.StarCoronaPlate",
@@ -2790,7 +2790,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCool",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaCool.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCool.MIC_Large_StarCoronaCool",
@@ -2810,7 +2810,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarHR",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarHR.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarHR.StarHR",
@@ -2835,7 +2835,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_StarSurfaceCM01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_StarSurfaceCM01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_StarSurfaceCM01.MIC_StarSurfaceCM01",
@@ -2855,7 +2855,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Particles/Par_SolarFlareL02",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Particles/Par_SolarFlareL02.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Particles/Par_SolarFlareL02.Par_SolarFlareL02",
@@ -2876,7 +2876,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_SolarFlareV1",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_SolarFlareV1.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_SolarFlareV1.MIC_SolarFlareV1",
@@ -2896,7 +2896,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Materials/MAT_SolarFlare",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Materials/MAT_SolarFlare.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Materials/MAT_SolarFlare.MAT_SolarFlare",
@@ -2919,7 +2919,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_RotateUV",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_RotateUV.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_RotateUV.MFUN_RotateUV",
@@ -2942,7 +2942,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_VertParticleBlend",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MaterialFunctions/MFUN_VertParticleBlend.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.20.59",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MaterialFunctions/MFUN_VertParticleBlend.MFUN_VertParticleBlend",
@@ -2965,7 +2965,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Materials/MAT_StarCorona",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Materials/MAT_StarCorona.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Materials/MAT_StarCorona.MAT_StarCorona",
@@ -2988,7 +2988,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV3",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV3.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV3.MIC_Large_StarCoronaHotV3",
@@ -3008,7 +3008,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/BP_BlueStar",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/BP_BlueStar.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/BP_BlueStar.BP_BlueStar",
@@ -3036,7 +3036,7 @@
 		{
 			"SourcePackageName": "/Game/Levels/EmptySkies_MainMenu",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Levels/EmptySkies_MainMenu.umap",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Levels/EmptySkies_MainMenu.EmptySkies_MainMenu",
@@ -3054,7 +3054,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Textures/EnergyBand2_Mask",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Textures/EnergyBand2_Mask.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Textures/EnergyBand2_Mask.EnergyBand2_Mask",
@@ -3083,7 +3083,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Textures/Smoke_Mask",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Textures/Smoke_Mask.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.24",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Textures/Smoke_Mask.Smoke_Mask",
@@ -3112,7 +3112,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBLargeWarped",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBLargeWarped.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBLargeWarped.StarSolar_SBLargeWarped",
@@ -3137,7 +3137,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_SStormFlareA",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_SStormFlareA.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_SStormFlareA.MIC_SStormFlareA",
@@ -3157,7 +3157,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Materials/MAT_SolarStorm",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Materials/MAT_SolarStorm.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.23",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Materials/MAT_SolarStorm.MAT_SolarStorm",
@@ -3180,7 +3180,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBNormal",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBNormal.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.24",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBNormal.StarSolar_SBNormal",
@@ -3205,7 +3205,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBThinTwistl",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBThinTwistl.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.24",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBThinTwistl.StarSolar_SBThinTwistl",
@@ -3230,7 +3230,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/SkyBox",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/SkyBox.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.24",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/SkyBox.Skybox",
@@ -3258,7 +3258,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/Space",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/Space.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.24",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/Space.Space",
@@ -3281,7 +3281,7 @@
 		{
 			"SourcePackageName": "/Game/Cubemaps/My_new_space_thingy",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Cubemaps/My_new_space_thingy.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.24",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Cubemaps/My_new_space_thingy.My_new_space_thingy",
@@ -3307,7 +3307,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/Shape_Sphere",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/Shape_Sphere.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.00",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.24",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/Shape_Sphere.Shape_Sphere",
@@ -3332,7 +3332,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorBlueprintResources/StandardMacros",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorBlueprintResources/StandardMacros.StandardMacros",
@@ -3360,7 +3360,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorBlueprintResources/ActorMacros",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorBlueprintResources/ActorMacros.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorBlueprintResources/ActorMacros.ActorMacros",
@@ -3395,7 +3395,7 @@
 		{
 			"SourcePackageName": "/Game/Levels/EmptySkies_Level1",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Levels/EmptySkies_Level1.umap",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Levels/EmptySkies_Level1.EmptySkies_Level1",
@@ -3413,7 +3413,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/DM_Asteroid",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/DM_Asteroid.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/DM_Asteroid.DM_Asteroid",
@@ -3441,7 +3441,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/Player1",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/Player1.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/Player1.Player1",
@@ -3461,7 +3461,7 @@
 						"BlueprintDescription": "",
 						"ClassFlags": "12845072",
 						"IsDataOnly": "False",
-						"SearchGuid": "57A7DE1C40E75CC3D69A30BE3CCDCC4D"
+						"SearchGuid": "30F25F5B41F653795E85C3B4C33680FD"
 					}
 				}
 			]
@@ -3469,7 +3469,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Explosion",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/PartcileBluePrints/Blueprint_Effect_Explosion.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Explosion.Blueprint_Effect_Explosion",
@@ -3497,7 +3497,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Explosion_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Explosion_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Explosion_Cue.Explosion_Cue",
@@ -3518,7 +3518,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Explosion01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Explosion01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Explosion01.Explosion01",
@@ -3543,7 +3543,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Explosion02",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Explosion02.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Explosion02.Explosion02",
@@ -3568,7 +3568,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/P_Explosion",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/P_Explosion.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/P_Explosion.P_Explosion",
@@ -3589,7 +3589,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_Burst",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_Burst.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_Burst.M_Burst",
@@ -3612,7 +3612,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_explosion_subUV",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_explosion_subUV.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_explosion_subUV.M_explosion_subUV",
@@ -3635,7 +3635,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/m_flare_01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/m_flare_01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/m_flare_01.m_flare_01",
@@ -3658,7 +3658,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_radial_ramp",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_radial_ramp.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_radial_ramp.M_radial_ramp",
@@ -3681,7 +3681,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.RadialGradient",
@@ -3704,7 +3704,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_smoke_subUV",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_smoke_subUV.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_smoke_subUV.M_smoke_subUV",
@@ -3727,7 +3727,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/ExplodingPlayer",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/ExplodingPlayer.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/ExplodingPlayer.ExplodingPlayer",
@@ -3755,7 +3755,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/Ray_03_DM",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/Ray_03_DM.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.01",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/Ray_03_DM.Ray_03_DM",
@@ -3766,7 +3766,7 @@
 					"AssetClass": "DestructibleMesh",
 					"TagsAndValues":
 					{
-						"Triangles": "13915",
+						"Triangles": "13763",
 						"Bones": "27",
 						"Skeleton": "None"
 					}
@@ -3774,16 +3774,16 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Materials/M_Metal_Chrome",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Chrome.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.08",
+			"SourcePackageName": "/Game/Materials/M_Metal_Gold",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Gold.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
-					"ObjectPath": "/Game/Materials/M_Metal_Chrome.M_Metal_Chrome",
-					"PackageName": "/Game/Materials/M_Metal_Chrome",
+					"ObjectPath": "/Game/Materials/M_Metal_Gold.M_Metal_Gold",
+					"PackageName": "/Game/Materials/M_Metal_Gold",
 					"PackagePath": "/Game/Materials",
 					"GroupNames": "None",
-					"AssetName": "M_Metal_Chrome",
+					"AssetName": "M_Metal_Gold",
 					"AssetClass": "Material",
 					"TagsAndValues":
 					{
@@ -3799,7 +3799,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_MacroVariation",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_MacroVariation.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.08",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_MacroVariation.T_MacroVariation",
@@ -3826,32 +3826,9 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Materials/M_Metal_Gold",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Gold.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Materials/M_Metal_Gold.M_Metal_Gold",
-					"PackageName": "/Game/Materials/M_Metal_Gold",
-					"PackagePath": "/Game/Materials",
-					"GroupNames": "None",
-					"AssetName": "M_Metal_Gold",
-					"AssetClass": "Material",
-					"TagsAndValues":
-					{
-						"ResourceSize": "0.89",
-						"MaterialDomain": "MD_Surface",
-						"BlendMode": "BLEND_Opaque",
-						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
-						"ShadingModel": "MSM_DefaultLit"
-					}
-				}
-			]
-		},
-		{
 			"SourcePackageName": "/Game/Textures/T_Metal_Gold_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Gold_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Metal_Gold_D.T_Metal_Gold_D",
@@ -3880,7 +3857,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Metal_Gold_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Gold_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.25",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Metal_Gold_N.T_Metal_Gold_N",
@@ -3907,9 +3884,90 @@
 			]
 		},
 		{
+			"SourcePackageName": "/Game/Materials/M_Metal_Steel",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Steel.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Materials/M_Metal_Steel.M_Metal_Steel",
+					"PackageName": "/Game/Materials/M_Metal_Steel",
+					"PackagePath": "/Game/Materials",
+					"GroupNames": "None",
+					"AssetName": "M_Metal_Steel",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Metal_Steel_D",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Steel_D.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Metal_Steel_D.T_Metal_Steel_D",
+					"PackageName": "/Game/Textures/T_Metal_Steel_D",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Metal_Steel_D",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "False",
+						"ResourceSize": "2.68",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Metal_Steel_N",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Steel_N.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Metal_Steel_N.T_Metal_Steel_N",
+					"PackageName": "/Game/Textures/T_Metal_Steel_N",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Metal_Steel_N",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "2",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Normalmap",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
 			"SourcePackageName": "/Game/Materials/M_Tech_Hex_Tile",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Tech_Hex_Tile.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Tech_Hex_Tile.M_Tech_Hex_Tile",
@@ -3932,7 +3990,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.BlendAngleCorrectedNormals",
@@ -3953,7 +4011,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Tech_Hex_Tile_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Tech_Hex_Tile_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Tech_Hex_Tile_M.T_Tech_Hex_Tile_M",
@@ -3982,7 +4040,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Tech_Hex_Tile_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Tech_Hex_Tile_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Tech_Hex_Tile_N.T_Tech_Hex_Tile_N",
@@ -4011,7 +4069,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/blinn1SG1",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/blinn1SG1.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.13",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/blinn1SG1.blinn1SG1",
@@ -4034,7 +4092,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/phong1SG1",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/phong1SG1.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/phong1SG1.phong1SG1",
@@ -4057,7 +4115,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/Ray_03",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/Ray_03.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/Ray_03.Ray_03",
@@ -4072,7 +4130,7 @@
 						"Vertices": "3854",
 						"UVChannels": "2",
 						"Materials": "2",
-						"ApproxSize": "69x89x27",
+						"ApproxSize": "207x266x80",
 						"CollisionPrims": "1",
 						"ResourceSize": "176.91"
 					}
@@ -4082,7 +4140,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/Rock_DM",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/Rock_DM.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/Rock_DM.Rock_DM",
@@ -4103,7 +4161,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Rock",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Rock.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Rock.M_Rock",
@@ -4126,7 +4184,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Detail_Rocky_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Detail_Rocky_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Detail_Rocky_N.T_Detail_Rocky_N",
@@ -4155,7 +4213,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Basalt_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Basalt_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Basalt_D.T_Rock_Basalt_D",
@@ -4184,7 +4242,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_RockMesh_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_RockMesh_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_RockMesh_M.T_RockMesh_M",
@@ -4213,7 +4271,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_RockMesh_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_RockMesh_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_RockMesh_N.T_RockMesh_N",
@@ -4242,7 +4300,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/SM_Rock",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/SM_Rock.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/SM_Rock.SM_Rock",
@@ -4267,7 +4325,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/pointed_pentagon",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/pointed_pentagon.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/pointed_pentagon.pointed_pentagon",
@@ -4296,7 +4354,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/LevelBlueprints/MultiplayerDogFight",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/LevelBlueprints/MultiplayerDogFight.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/LevelBlueprints/MultiplayerDogFight.MultiplayerDogFight",
@@ -4324,7 +4382,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/HUDForCrossHair",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/HUDForCrossHair.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/HUDForCrossHair.HUDForCrossHair",
@@ -4352,7 +4410,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/crosshair",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/crosshair.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/crosshair.crosshair",
@@ -4381,7 +4439,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/LevelBlueprints/CustomPlayerController",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/LevelBlueprints/CustomPlayerController.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/LevelBlueprints/CustomPlayerController.CustomPlayerController",
@@ -4409,7 +4467,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/LevelBlueprints/FixGimbalLocks",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/LevelBlueprints/FixGimbalLocks.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/LevelBlueprints/FixGimbalLocks.FixGimbalLocks",
@@ -4437,7 +4495,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Particles/Par_SolarFlareL01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Particles/Par_SolarFlareL01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Particles/Par_SolarFlareL01.Par_SolarFlareL01",
@@ -4458,7 +4516,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV4",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV4.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV4.MIC_Large_StarCoronaCoolV4",
@@ -4478,7 +4536,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV3",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV3.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV3.MIC_Large_StarCoronaCoolV3",
@@ -4498,7 +4556,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV2",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV2.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaCoolV2.MIC_Large_StarCoronaCoolV2",
@@ -4518,7 +4576,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Maps/Star_3000Kelvin",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Maps/Star_3000Kelvin.umap",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.14",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.34",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Maps/Star_3000Kelvin.Star_3000Kelvin",
@@ -4536,7 +4594,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Maps/Star_28000Kelvin",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Maps/Star_28000Kelvin.umap",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.15",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.35",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Maps/Star_28000Kelvin.Star_28000Kelvin",
@@ -4554,7 +4612,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Tech_Dot_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Tech_Dot_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Tech_Dot_N.T_Tech_Dot_N",
@@ -4583,7 +4641,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Tech_Dot_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Tech_Dot_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Tech_Dot_M.T_Tech_Dot_M",
@@ -4612,7 +4670,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_TableRound_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_TableRound_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_TableRound_N.T_TableRound_N",
@@ -4641,7 +4699,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_TableRound_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_TableRound_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_TableRound_M.T_TableRound_M",
@@ -4670,7 +4728,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Statue_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Statue_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Statue_N.T_Statue_N",
@@ -4699,7 +4757,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Statue_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Statue_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Statue_M.T_Statue_M",
@@ -4728,7 +4786,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Spark_Core",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Spark_Core.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Spark_Core.T_Spark_Core",
@@ -4757,7 +4815,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Smoke_Tiled_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Smoke_Tiled_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D",
@@ -4786,7 +4844,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Smoke_SubUV",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Smoke_SubUV.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Smoke_SubUV.T_Smoke_SubUV",
@@ -4815,7 +4873,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Single_Tile_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Single_Tile_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Single_Tile_N.T_Single_Tile_N",
@@ -4844,7 +4902,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Shelf_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Shelf_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Shelf_N.T_Shelf_N",
@@ -4873,7 +4931,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Shelf_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Shelf_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Shelf_M.T_Shelf_M",
@@ -4902,7 +4960,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Smooth_Granite_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Smooth_Granite_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Smooth_Granite_D.T_Rock_Smooth_Granite_D",
@@ -4931,7 +4989,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Slate_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Slate_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Slate_N.T_Rock_Slate_N",
@@ -4960,7 +5018,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Slate_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Slate_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Slate_D.T_Rock_Slate_D",
@@ -4989,7 +5047,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Sandstone_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Sandstone_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Sandstone_N.T_Rock_Sandstone_N",
@@ -5018,7 +5076,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Sandstone_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Sandstone_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Sandstone_D.T_Rock_Sandstone_D",
@@ -5047,7 +5105,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Marble_Polished_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Marble_Polished_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Marble_Polished_D.T_Rock_Marble_Polished_D",
@@ -5076,7 +5134,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Rock_Basalt_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Rock_Basalt_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Rock_Basalt_N.T_Rock_Basalt_N",
@@ -5105,7 +5163,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Perlin_Noise_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Perlin_Noise_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M",
@@ -5132,16 +5190,16 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Textures/T_Metal_Steel_N",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Steel_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"SourcePackageName": "/Game/Textures/T_Metal_Rust_N",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Rust_N.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
-					"ObjectPath": "/Game/Textures/T_Metal_Steel_N.T_Metal_Steel_N",
-					"PackageName": "/Game/Textures/T_Metal_Steel_N",
+					"ObjectPath": "/Game/Textures/T_Metal_Rust_N.T_Metal_Rust_N",
+					"PackageName": "/Game/Textures/T_Metal_Rust_N",
 					"PackagePath": "/Game/Textures",
 					"GroupNames": "None",
-					"AssetName": "T_Metal_Steel_N",
+					"AssetName": "T_Metal_Rust_N",
 					"AssetClass": "Texture2D",
 					"TagsAndValues":
 					{
@@ -5150,7 +5208,7 @@
 						"ResourceSize": "5.36",
 						"AddressX": "TA_Wrap",
 						"AddressY": "TA_Wrap",
-						"LODBias": "2",
+						"LODBias": "0",
 						"SRGB": "False",
 						"NeverStream": "False",
 						"CompressionSettings": "TC_Normalmap",
@@ -5163,7 +5221,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Tech_Panel_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Tech_Panel_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Tech_Panel_M.T_Tech_Panel_M",
@@ -5192,7 +5250,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Tech_Panel_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Tech_Panel_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Tech_Panel_N.T_Tech_Panel_N",
@@ -5221,7 +5279,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Water_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Water_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Water_M.T_Water_M",
@@ -5250,7 +5308,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Water_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Water_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Water_N.T_Water_N",
@@ -5277,67 +5335,9 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Textures/T_Metal_Steel_D",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Steel_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Metal_Steel_D.T_Metal_Steel_D",
-					"PackageName": "/Game/Textures/T_Metal_Steel_D",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Metal_Steel_D",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "False",
-						"ResourceSize": "2.68",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Metal_Rust_N",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Rust_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Metal_Rust_N.T_Metal_Rust_N",
-					"PackageName": "/Game/Textures/T_Metal_Rust_N",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Metal_Rust_N",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "False",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Normalmap",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
 			"SourcePackageName": "/Game/Textures/T_Metal_Rust_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Rust_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Metal_Rust_D.T_Metal_Rust_D",
@@ -5366,7 +5366,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Metal_Copper_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Copper_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.44",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Metal_Copper_D.T_Metal_Copper_D",
@@ -5395,7 +5395,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Metal_Aluminum_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Metal_Aluminum_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Metal_Aluminum_D.T_Metal_Aluminum_D",
@@ -5424,7 +5424,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Lamp_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Lamp_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Lamp_N.T_Lamp_N",
@@ -5453,7 +5453,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Lamp_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Lamp_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Lamp_M.T_Lamp_M",
@@ -5482,7 +5482,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Ground_Moss_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Ground_Moss_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Ground_Moss_N.T_Ground_Moss_N",
@@ -5511,7 +5511,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_ground_Moss_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_ground_Moss_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_ground_Moss_D.T_ground_Moss_D",
@@ -5540,7 +5540,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Ground_Gravel_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Ground_Gravel_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Ground_Gravel_N.T_Ground_Gravel_N",
@@ -5569,7 +5569,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Ground_Gravel_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Ground_Gravel_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Ground_Gravel_D.T_Ground_Gravel_D",
@@ -5598,7 +5598,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Ground_Grass_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Ground_Grass_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Ground_Grass_N.T_Ground_Grass_N",
@@ -5627,7 +5627,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Ground_Grass_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Ground_Grass_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Ground_Grass_D.T_Ground_Grass_D",
@@ -5656,7 +5656,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Gradinet_01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Gradinet_01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Gradinet_01.T_Gradinet_01",
@@ -5685,7 +5685,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Frame_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Frame_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Frame_N.T_Frame_N",
@@ -5714,7 +5714,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Frame_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Frame_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Frame_M.T_Frame_M",
@@ -5743,7 +5743,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Fire_Tiled_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Fire_Tiled_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Fire_Tiled_D.T_Fire_Tiled_D",
@@ -5772,7 +5772,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Fire_SubUV",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Fire_SubUV.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Fire_SubUV.T_Fire_SubUV",
@@ -5801,7 +5801,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Explosion_SubUV",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Explosion_SubUV.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Explosion_SubUV.T_Explosion_SubUV",
@@ -5830,7 +5830,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Dust_Particle_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Dust_Particle_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Dust_Particle_D.T_Dust_Particle_D",
@@ -5859,7 +5859,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Door_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Door_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Door_N.T_Door_N",
@@ -5888,7 +5888,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Door_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Door_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Door_M.T_Door_M",
@@ -5917,7 +5917,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Tiles_Variation_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Tiles_Variation_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Tiles_Variation_M.T_Concrete_Tiles_Variation_M",
@@ -5946,7 +5946,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Tiles_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Tiles_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Tiles_N.T_Concrete_Tiles_N",
@@ -5975,7 +5975,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Tiles_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Tiles_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Tiles_M.T_Concrete_Tiles_M",
@@ -6004,7 +6004,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Tiles_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Tiles_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Tiles_D.T_Concrete_Tiles_D",
@@ -6033,7 +6033,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Poured_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Poured_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Poured_N.T_Concrete_Poured_N",
@@ -6062,7 +6062,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Poured_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Poured_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Poured_D.T_Concrete_Poured_D",
@@ -6091,7 +6091,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Panels_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Panels_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Panels_N.T_Concrete_Panels_N",
@@ -6120,7 +6120,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Panels_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Panels_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Panels_D.T_Concrete_Panels_D",
@@ -6149,7 +6149,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Concrete_Grime_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Concrete_Grime_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Concrete_Grime_D.T_Concrete_Grime_D",
@@ -6178,7 +6178,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Smooth_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Smooth_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Smooth_N.T_CobbleStone_Smooth_N",
@@ -6207,7 +6207,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Smooth_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Smooth_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Smooth_M.T_CobbleStone_Smooth_M",
@@ -6236,7 +6236,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Smooth_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Smooth_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Smooth_D.T_CobbleStone_Smooth_D",
@@ -6265,7 +6265,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Rough_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Rough_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Rough_N.T_CobbleStone_Rough_N",
@@ -6294,7 +6294,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Rough_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Rough_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Rough_D.T_CobbleStone_Rough_D",
@@ -6323,7 +6323,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Pebble_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Pebble_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Pebble_N.T_CobbleStone_Pebble_N",
@@ -6352,7 +6352,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Pebble_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Pebble_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Pebble_M.T_CobbleStone_Pebble_M",
@@ -6381,7 +6381,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_CobbleStone_Pebble_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_CobbleStone_Pebble_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_CobbleStone_Pebble_D.T_CobbleStone_Pebble_D",
@@ -6410,7 +6410,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Checker_Noise_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Checker_Noise_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Checker_Noise_M.T_Checker_Noise_M",
@@ -6439,7 +6439,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Chair_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Chair_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Chair_N.T_Chair_N",
@@ -6468,7 +6468,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Chair_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Chair_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Chair_M.T_Chair_M",
@@ -6497,7 +6497,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Ceramic_Tile_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Ceramic_Tile_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Ceramic_Tile_N.T_Ceramic_Tile_N",
@@ -6526,7 +6526,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Ceramic_Tile_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Ceramic_Tile_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Ceramic_Tile_M.T_Ceramic_Tile_M",
@@ -6553,270 +6553,9 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Floor_Walnut_D",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Floor_Walnut_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Floor_Walnut_D.T_Wood_Floor_Walnut_D",
-					"PackageName": "/Game/Textures/T_Wood_Floor_Walnut_D",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Floor_Walnut_D",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Floor_Walnut_M",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Floor_Walnut_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Floor_Walnut_M.T_Wood_Floor_Walnut_M",
-					"PackageName": "/Game/Textures/T_Wood_Floor_Walnut_M",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Floor_Walnut_M",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Floor_Walnut_N",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Floor_Walnut_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Floor_Walnut_N.T_Wood_Floor_Walnut_N",
-					"PackageName": "/Game/Textures/T_Wood_Floor_Walnut_N",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Floor_Walnut_N",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "False",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Normalmap",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Oak_D",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Oak_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Oak_D.T_Wood_Oak_D",
-					"PackageName": "/Game/Textures/T_Wood_Oak_D",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Oak_D",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Oak_N",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Oak_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Oak_N.T_Wood_Oak_N",
-					"PackageName": "/Game/Textures/T_Wood_Oak_N",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Oak_N",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "False",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Normalmap",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Pine_D",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Pine_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Pine_D.T_Wood_Pine_D",
-					"PackageName": "/Game/Textures/T_Wood_Pine_D",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Pine_D",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Pine_N",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Pine_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Pine_N.T_Wood_Pine_N",
-					"PackageName": "/Game/Textures/T_Wood_Pine_N",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Pine_N",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "False",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Normalmap",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Walnut_D",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Walnut_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Walnut_D.T_Wood_Walnut_D",
-					"PackageName": "/Game/Textures/T_Wood_Walnut_D",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Walnut_D",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "True",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Default",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_World"
-					}
-				}
-			]
-		},
-		{
-			"SourcePackageName": "/Game/Textures/T_Wood_Walnut_N",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Walnut_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Textures/T_Wood_Walnut_N.T_Wood_Walnut_N",
-					"PackageName": "/Game/Textures/T_Wood_Walnut_N",
-					"PackagePath": "/Game/Textures",
-					"GroupNames": "None",
-					"AssetName": "T_Wood_Walnut_N",
-					"AssetClass": "Texture2D",
-					"TagsAndValues":
-					{
-						"Dimensions": "2048x2048",
-						"HasAlphaChannel": "True",
-						"ResourceSize": "5.36",
-						"AddressX": "TA_Wrap",
-						"AddressY": "TA_Wrap",
-						"LODBias": "0",
-						"SRGB": "False",
-						"NeverStream": "False",
-						"CompressionSettings": "TC_Normalmap",
-						"Filter": "TF_Default",
-						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
-					}
-				}
-			]
-		},
-		{
 			"SourcePackageName": "/Game/Textures/T_Bush_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Bush_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Bush_N.T_Bush_N",
@@ -6845,7 +6584,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Bush_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Bush_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Bush_D.T_Bush_D",
@@ -6874,7 +6613,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Burst_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Burst_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Burst_M.T_Burst_M",
@@ -6903,7 +6642,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Hewn_Stone_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Hewn_Stone_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Hewn_Stone_N.T_Brick_Hewn_Stone_N",
@@ -6930,9 +6669,270 @@
 			]
 		},
 		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Floor_Walnut_D",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Floor_Walnut_D.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Floor_Walnut_D.T_Wood_Floor_Walnut_D",
+					"PackageName": "/Game/Textures/T_Wood_Floor_Walnut_D",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Floor_Walnut_D",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Floor_Walnut_M",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Floor_Walnut_M.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Floor_Walnut_M.T_Wood_Floor_Walnut_M",
+					"PackageName": "/Game/Textures/T_Wood_Floor_Walnut_M",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Floor_Walnut_M",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Floor_Walnut_N",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Floor_Walnut_N.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Floor_Walnut_N.T_Wood_Floor_Walnut_N",
+					"PackageName": "/Game/Textures/T_Wood_Floor_Walnut_N",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Floor_Walnut_N",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Normalmap",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Oak_D",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Oak_D.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Oak_D.T_Wood_Oak_D",
+					"PackageName": "/Game/Textures/T_Wood_Oak_D",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Oak_D",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Oak_N",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Oak_N.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.45",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Oak_N.T_Wood_Oak_N",
+					"PackageName": "/Game/Textures/T_Wood_Oak_N",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Oak_N",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Normalmap",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Pine_D",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Pine_D.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.46",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Pine_D.T_Wood_Pine_D",
+					"PackageName": "/Game/Textures/T_Wood_Pine_D",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Pine_D",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Pine_N",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Pine_N.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.46",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Pine_N.T_Wood_Pine_N",
+					"PackageName": "/Game/Textures/T_Wood_Pine_N",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Pine_N",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Normalmap",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Walnut_D",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Walnut_D.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.46",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Walnut_D.T_Wood_Walnut_D",
+					"PackageName": "/Game/Textures/T_Wood_Walnut_D",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Walnut_D",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "True",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Default",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_World"
+					}
+				}
+			]
+		},
+		{
+			"SourcePackageName": "/Game/Textures/T_Wood_Walnut_N",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Wood_Walnut_N.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.46",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Textures/T_Wood_Walnut_N.T_Wood_Walnut_N",
+					"PackageName": "/Game/Textures/T_Wood_Walnut_N",
+					"PackagePath": "/Game/Textures",
+					"GroupNames": "None",
+					"AssetName": "T_Wood_Walnut_N",
+					"AssetClass": "Texture2D",
+					"TagsAndValues":
+					{
+						"Dimensions": "2048x2048",
+						"HasAlphaChannel": "True",
+						"ResourceSize": "5.36",
+						"AddressX": "TA_Wrap",
+						"AddressY": "TA_Wrap",
+						"LODBias": "0",
+						"SRGB": "False",
+						"NeverStream": "False",
+						"CompressionSettings": "TC_Normalmap",
+						"Filter": "TF_Default",
+						"LODGroup": "TEXTUREGROUP_WorldNormalMap"
+					}
+				}
+			]
+		},
+		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Hewn_Stone_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Hewn_Stone_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.46",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Hewn_Stone_M.T_Brick_Hewn_Stone_M",
@@ -6961,7 +6961,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Hewn_Stone_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Hewn_Stone_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.47",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Hewn_Stone_D.T_Brick_Hewn_Stone_D",
@@ -6990,7 +6990,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Cut_Stone_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Cut_Stone_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.47",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Cut_Stone_N.T_Brick_Cut_Stone_N",
@@ -7019,7 +7019,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Cut_Stone_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Cut_Stone_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.47",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Cut_Stone_D.T_Brick_Cut_Stone_D",
@@ -7048,7 +7048,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_Old_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_Old_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.48",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_Old_N.T_Brick_Clay_Old_N",
@@ -7077,7 +7077,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_Old_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_Old_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.48",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_Old_D.T_Brick_Clay_Old_D",
@@ -7106,7 +7106,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_New_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_New_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.48",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_New_N.T_Brick_Clay_New_N",
@@ -7135,7 +7135,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_New_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_New_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.49",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_New_M.T_Brick_Clay_New_M",
@@ -7164,7 +7164,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_New_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_New_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.17",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.49",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_New_D.T_Brick_Clay_New_D",
@@ -7193,7 +7193,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_Beveled_N",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_Beveled_N.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_Beveled_N.T_Brick_Clay_Beveled_N",
@@ -7222,7 +7222,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_Beveled_M",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_Beveled_M.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_Beveled_M.T_Brick_Clay_Beveled_M",
@@ -7251,7 +7251,7 @@
 		{
 			"SourcePackageName": "/Game/Textures/T_Brick_Clay_Beveled_D",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Textures/T_Brick_Clay_Beveled_D.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Textures/T_Brick_Clay_Beveled_D.T_Brick_Clay_Beveled_D",
@@ -7280,7 +7280,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_Spark",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_Spark.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_Spark.M_Spark",
@@ -7303,7 +7303,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_Radial_Gradient",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_Radial_Gradient.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_Radial_Gradient.M_Radial_Gradient",
@@ -7326,7 +7326,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_Heat_Distortion",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_Heat_Distortion.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_Heat_Distortion.M_Heat_Distortion",
@@ -7349,7 +7349,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_Fire_SubUV",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_Fire_SubUV.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_Fire_SubUV.M_Fire_SubUV",
@@ -7372,7 +7372,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/Materials/M_Dust_Particle",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/Materials/M_Dust_Particle.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/Materials/M_Dust_Particle.M_Dust_Particle",
@@ -7395,7 +7395,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/P_Steam_Lit",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/P_Steam_Lit.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/P_Steam_Lit.P_Steam_Lit",
@@ -7416,7 +7416,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/P_Sparks",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/P_Sparks.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/P_Sparks.P_Sparks",
@@ -7437,7 +7437,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/P_Smoke",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/P_Smoke.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/P_Smoke.P_Smoke",
@@ -7458,7 +7458,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/P_Fire",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/P_Fire.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/P_Fire.P_Fire",
@@ -7479,7 +7479,7 @@
 		{
 			"SourcePackageName": "/Game/Particles/P_Ambient_Dust",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Particles/P_Ambient_Dust.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Particles/P_Ambient_Dust.P_Ambient_Dust",
@@ -7500,7 +7500,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/UFO_DM",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/UFO_DM.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/UFO_DM.UFO_DM",
@@ -7521,7 +7521,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/UFO",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/UFO.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/UFO.UFO",
@@ -7552,7 +7552,7 @@
 		{
 			"SourcePackageName": "/Game/Meshes/M_Template_Master",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Meshes/M_Template_Master.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.50",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Meshes/M_Template_Master.M_Template_Master",
@@ -7606,7 +7606,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Wood_Walnut",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Wood_Walnut.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Wood_Walnut.M_Wood_Walnut",
@@ -7629,7 +7629,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Wood_Pine",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Wood_Pine.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Wood_Pine.M_Wood_Pine",
@@ -7652,7 +7652,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Wood_Oak",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Wood_Oak.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Wood_Oak.M_Wood_Oak",
@@ -7675,7 +7675,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Wood_Floor_Walnut_Worn",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Wood_Floor_Walnut_Worn.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Wood_Floor_Walnut_Worn.M_Wood_Floor_Walnut_Worn",
@@ -7698,7 +7698,7 @@
 		{
 			"SourcePackageName": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.AlphaOffset",
@@ -7719,7 +7719,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Wood_Floor_Walnut_Polished",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Wood_Floor_Walnut_Polished.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.18",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished",
@@ -7742,7 +7742,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Water_Ocean",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Water_Ocean.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Water_Ocean.M_Water_Ocean",
@@ -7765,7 +7765,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Water_Lake",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Water_Lake.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Water_Lake.M_Water_Lake",
@@ -7788,7 +7788,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Tech_Panel",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Tech_Panel.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Tech_Panel.M_Tech_Panel",
@@ -7811,7 +7811,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Tech_Hex_Tile_Pulse",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Tech_Hex_Tile_Pulse.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse",
@@ -7834,7 +7834,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Tech_Checker_Dot",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Tech_Checker_Dot.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Tech_Checker_Dot.M_Tech_Checker_Dot",
@@ -7857,7 +7857,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Rock_Slate",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Rock_Slate.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Rock_Slate.M_Rock_Slate",
@@ -7880,7 +7880,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Rock_Sandstone",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Rock_Sandstone.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Rock_Sandstone.M_Rock_Sandstone",
@@ -7903,7 +7903,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Rock_Marble_Polished",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Rock_Marble_Polished.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Rock_Marble_Polished.M_Rock_Marble_Polished",
@@ -7926,7 +7926,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Rock_Basalt",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Rock_Basalt.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Rock_Basalt.M_Rock_Basalt",
@@ -7947,32 +7947,9 @@
 			]
 		},
 		{
-			"SourcePackageName": "/Game/Materials/M_Metal_Steel",
-			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Steel.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
-			"AssetData": [
-				{
-					"ObjectPath": "/Game/Materials/M_Metal_Steel.M_Metal_Steel",
-					"PackageName": "/Game/Materials/M_Metal_Steel",
-					"PackagePath": "/Game/Materials",
-					"GroupNames": "None",
-					"AssetName": "M_Metal_Steel",
-					"AssetClass": "Material",
-					"TagsAndValues":
-					{
-						"ResourceSize": "0.89",
-						"MaterialDomain": "MD_Surface",
-						"BlendMode": "BLEND_Opaque",
-						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
-						"ShadingModel": "MSM_DefaultLit"
-					}
-				}
-			]
-		},
-		{
 			"SourcePackageName": "/Game/Materials/M_Metal_Rust",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Rust.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Metal_Rust.M_Metal_Rust",
@@ -7995,7 +7972,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Metal_Copper",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Copper.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Metal_Copper.M_Metal_Copper",
@@ -8016,9 +7993,32 @@
 			]
 		},
 		{
+			"SourcePackageName": "/Game/Materials/M_Metal_Chrome",
+			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Chrome.uasset",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
+			"AssetData": [
+				{
+					"ObjectPath": "/Game/Materials/M_Metal_Chrome.M_Metal_Chrome",
+					"PackageName": "/Game/Materials/M_Metal_Chrome",
+					"PackagePath": "/Game/Materials",
+					"GroupNames": "None",
+					"AssetName": "M_Metal_Chrome",
+					"AssetClass": "Material",
+					"TagsAndValues":
+					{
+						"ResourceSize": "0.89",
+						"MaterialDomain": "MD_Surface",
+						"BlendMode": "BLEND_Opaque",
+						"MaterialDecalResponse": "MDR_ColorNormalRoughness",
+						"ShadingModel": "MSM_DefaultLit"
+					}
+				}
+			]
+		},
+		{
 			"SourcePackageName": "/Game/Materials/M_Metal_Burnished_Steel",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Burnished_Steel.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Metal_Burnished_Steel.M_Metal_Burnished_Steel",
@@ -8041,7 +8041,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Metal_Brushed_Nickel",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Metal_Brushed_Nickel.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Metal_Brushed_Nickel.M_Metal_Brushed_Nickel",
@@ -8064,7 +8064,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Ground_Moss",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Ground_Moss.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Ground_Moss.M_Ground_Moss",
@@ -8087,7 +8087,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Ground_Gravel",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Ground_Gravel.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.19",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Ground_Gravel.M_Ground_Gravel",
@@ -8110,7 +8110,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Ground_Grass",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Ground_Grass.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Ground_Grass.M_Ground_Grass",
@@ -8133,7 +8133,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Glass",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Glass.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Glass.M_Glass",
@@ -8156,7 +8156,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Concrete_Tiles",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Concrete_Tiles.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Concrete_Tiles.M_Concrete_Tiles",
@@ -8179,7 +8179,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Concrete_Poured",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Concrete_Poured.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Concrete_Poured.M_Concrete_Poured",
@@ -8202,7 +8202,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Concrete_Panels",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Concrete_Panels.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Concrete_Panels.M_Concrete_Panels",
@@ -8225,7 +8225,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Concrete_Grime",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Concrete_Grime.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Concrete_Grime.M_Concrete_Grime",
@@ -8248,7 +8248,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_ColorGrid_LowSpec",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_ColorGrid_LowSpec.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_ColorGrid_LowSpec.M_ColorGrid_LowSpec",
@@ -8271,7 +8271,7 @@
 		{
 			"SourcePackageName": "/Engine/EditorMeshes/ColorCalibrator/T_ColorGrid",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Engine/EditorMeshes/ColorCalibrator/T_ColorGrid.T_ColorGrid",
@@ -8300,7 +8300,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_CobbleStone_Smooth",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_CobbleStone_Smooth.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth",
@@ -8323,7 +8323,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_CobbleStone_Rough",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_CobbleStone_Rough.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough",
@@ -8346,7 +8346,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_CobbleStone_Pebble",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_CobbleStone_Pebble.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble",
@@ -8369,7 +8369,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Ceramic_Tile_Checker",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Ceramic_Tile_Checker.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Ceramic_Tile_Checker.M_Ceramic_Tile_Checker",
@@ -8392,7 +8392,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Brick_Hewn_Stone",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Brick_Hewn_Stone.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone",
@@ -8415,7 +8415,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Brick_Cut_Stone",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Brick_Cut_Stone.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Brick_Cut_Stone.M_Brick_Cut_Stone",
@@ -8438,7 +8438,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Brick_Clay_Old",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Brick_Clay_Old.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Brick_Clay_Old.M_Brick_Clay_Old",
@@ -8461,7 +8461,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Brick_Clay_New",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Brick_Clay_New.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Brick_Clay_New.M_Brick_Clay_New",
@@ -8484,7 +8484,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Brick_Clay_Beveled",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Brick_Clay_Beveled.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.20",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Brick_Clay_Beveled.M_Brick_Clay_Beveled",
@@ -8507,7 +8507,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Basic_Wall",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Basic_Wall.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Basic_Wall.M_Basic_Wall",
@@ -8530,7 +8530,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_Basic_Floor",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_Basic_Floor.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_Basic_Floor.M_Basic_Floor",
@@ -8553,7 +8553,7 @@
 		{
 			"SourcePackageName": "/Game/Materials/M_AssetPlatform",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Materials/M_AssetPlatform.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Materials/M_AssetPlatform.M_AssetPlatform",
@@ -8576,7 +8576,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Textures/Checkers",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Textures/Checkers.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Textures/Checkers.Checkers",
@@ -8605,7 +8605,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_StarSurfaceCM02",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_StarSurfaceCM02.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_StarSurfaceCM02.MIC_StarSurfaceCM02",
@@ -8625,7 +8625,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_SStormCone",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_SStormCone.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_SStormCone.MIC_SStormCone",
@@ -8645,7 +8645,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Small_StarCoronaHot",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Small_StarCoronaHot.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Small_StarCoronaHot.MIC_Small_StarCoronaHot",
@@ -8665,7 +8665,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Small_StarCoronaCool",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Small_StarCoronaCool.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Small_StarCoronaCool.MIC_Small_StarCoronaCool",
@@ -8685,7 +8685,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV4",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV4.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV4.MIC_Large_StarCoronaHotV4",
@@ -8705,7 +8705,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV2",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV2.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHotV2.MIC_Large_StarCoronaHotV2",
@@ -8725,7 +8725,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHot",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/MICs/MIC_Large_StarCoronaHot.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/MICs/MIC_Large_StarCoronaHot.MIC_Large_StarCoronaHot",
@@ -8745,7 +8745,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBWarped",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBWarped.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBWarped.StarSolar_SBWarped",
@@ -8770,7 +8770,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBTwistl",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBTwistl.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBTwistl.StarSolar_SBTwistl",
@@ -8795,7 +8795,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBThinWarped",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBThinWarped.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBThinWarped.StarSolar_SBThinWarped",
@@ -8820,7 +8820,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBThinNormal",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBThinNormal.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBThinNormal.StarSolar_SBThinNormal",
@@ -8845,7 +8845,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_SBLargeNormal",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_SBLargeNormal.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_SBLargeNormal.StarSolar_SBLargeNormal",
@@ -8870,7 +8870,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_DonutHalf",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_DonutHalf.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_DonutHalf.StarSolar_DonutHalf",
@@ -8895,7 +8895,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_ConeSmooth",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_ConeSmooth.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_ConeSmooth.StarSolar_ConeSmooth",
@@ -8920,7 +8920,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarSolar_ConeRough",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarSolar_ConeRough.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarSolar_ConeRough.StarSolar_ConeRough",
@@ -8945,7 +8945,7 @@
 		{
 			"SourcePackageName": "/Game/FXStarStarterKit/Meshes/StarHR2",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/FXStarStarterKit/Meshes/StarHR2.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/FXStarStarterKit/Meshes/StarHR2.StarHR2",
@@ -8970,7 +8970,7 @@
 		{
 			"SourcePackageName": "/Game/Fonts/Atmosphere-Light",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Fonts/Atmosphere-Light.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Fonts/Atmosphere-Light.Atmosphere-Light",
@@ -8988,7 +8988,7 @@
 		{
 			"SourcePackageName": "/Game/Fonts/Atmosphere-Bold",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Fonts/Atmosphere-Bold.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Fonts/Atmosphere-Bold.Atmosphere-Bold",
@@ -9025,7 +9025,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/PartcileBluePrints/Explosion_Blueprint",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/PartcileBluePrints/Explosion_Blueprint.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/PartcileBluePrints/Explosion_Blueprint.Explosion_Blueprint",
@@ -9053,7 +9053,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/PartcileBluePrints/Blueprint_Steam",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/PartcileBluePrints/Blueprint_Steam.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/PartcileBluePrints/Blueprint_Steam.Blueprint_Steam",
@@ -9081,7 +9081,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Steam",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/PartcileBluePrints/Blueprint_Effect_Steam.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Steam.Blueprint_Effect_Steam",
@@ -9109,7 +9109,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Steam01_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Steam01_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Steam01_Cue.Steam01_Cue",
@@ -9130,7 +9130,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Steam01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Steam01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Steam01.Steam01",
@@ -9155,7 +9155,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Sparks",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/PartcileBluePrints/Blueprint_Effect_Sparks.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Sparks.Blueprint_Effect_Sparks",
@@ -9183,7 +9183,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Fire_Sparks01_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Fire_Sparks01_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue",
@@ -9204,7 +9204,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Fire_Sparks01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Fire_Sparks01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Fire_Sparks01.Fire_Sparks01",
@@ -9229,7 +9229,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Smoke",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/PartcileBluePrints/Blueprint_Effect_Smoke.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.21",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Smoke.Blueprint_Effect_Smoke",
@@ -9257,7 +9257,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Smoke01_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Smoke01_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Smoke01_Cue.Smoke01_Cue",
@@ -9278,7 +9278,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Smoke01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Smoke01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Smoke01.Smoke01",
@@ -9303,7 +9303,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Fire",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/PartcileBluePrints/Blueprint_Effect_Fire.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/PartcileBluePrints/Blueprint_Effect_Fire.Blueprint_Effect_Fire",
@@ -9331,7 +9331,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Fire01_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Fire01_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Fire01_Cue.Fire01_Cue",
@@ -9352,7 +9352,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Fire01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Fire01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Fire01.Fire01",
@@ -9377,7 +9377,7 @@
 		{
 			"SourcePackageName": "/Game/Blueprints/Player_Registration",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Blueprints/Player_Registration.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Blueprints/Player_Registration.Player_Registration",
@@ -9577,7 +9577,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Starter_Wind06",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Starter_Wind06.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Starter_Wind06.Starter_Wind06",
@@ -9602,7 +9602,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Starter_Wind05",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Starter_Wind05.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Starter_Wind05.Starter_Wind05",
@@ -9627,7 +9627,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Starter_Music_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Starter_Music_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Starter_Music_Cue.Starter_Music_Cue",
@@ -9648,7 +9648,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Starter_Music01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Starter_Music01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.22",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Starter_Music01.Starter_Music01",
@@ -9673,7 +9673,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Starter_Birds01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Starter_Birds01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Starter_Birds01.Starter_Birds01",
@@ -9698,7 +9698,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Starter_Background_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Starter_Background_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Starter_Background_Cue.Starter_Background_Cue",
@@ -9719,7 +9719,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Light02_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Light02_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Light02_Cue.Light02_Cue",
@@ -9740,7 +9740,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Light02",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Light02.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Light02.Light02",
@@ -9765,7 +9765,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Light01_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Light01_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Light01_Cue.Light01_Cue",
@@ -9786,7 +9786,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Light01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Light01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Light01.Light01",
@@ -9811,7 +9811,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Collapse_Cue",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Collapse_Cue.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Collapse_Cue.Collapse_Cue",
@@ -9832,7 +9832,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Collapse01",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Collapse01.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Collapse01.Collapse01",
@@ -9857,7 +9857,7 @@
 		{
 			"SourcePackageName": "/Game/Audio/Collapse02",
 			"CookedPackageName": "C:/Users/Dillon/Documents/GitHub/EmptySkies/Saved/Cooked/WindowsNoEditor/EmptySkies/Content/Audio/Collapse02.uasset",
-			"CookedPackageTimeStamp": "2015.02.05-15.21.23",
+			"CookedPackageTimeStamp": "2015.02.05-15.45.51",
 			"AssetData": [
 				{
 					"ObjectPath": "/Game/Audio/Collapse02.Collapse02",
