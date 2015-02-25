@@ -1,0 +1,43 @@
+﻿Log file open, 02/24/15 09:37:28
+LogInit:Display: Running engine for game: EmptySkies
+LogInit: Version: 4.6.1-2386410+++depot+UE4-Releases+4.6
+LogInit: API Version: 2369412
+LogInit: Compiled (64-bit): Dec 11 2014 21:33:04
+LogInit: Compiled with Visual C++: 18.00.21005.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++depot+UE4-Releases+4.6
+LogInit: Command line:  
+LogInit: Base directory: C:/Users/Dillon/Documents/GitHub/EmptySkies-Builds/0.3/WindowsNoEditor/Engine/Binaries/Win64/
+LogInit: Rocket: 1
+[2015.02.24-15.37.28:048][  0]LogTaskGraph: Started task graph with 3 named threads and 6 total threads.
+[2015.02.24-15.37.28:092][  0]LogOnline:Warning: No default platform service specified for OnlineSubsystem
+[2015.02.24-15.37.28:092][  0]LogInit: Presizing for 0 objects not considered by GC, pre-allocating 0 bytes.
+[2015.02.24-15.37.28:098][  0]LogInit: Object subsystem initialized
+[2015.02.24-15.37.28:099][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleRule = ShortestSide'
+[2015.02.24-15.37.28:099][  0]LogConsoleResponse:Warning:   Found in ini file '../../../EmptySkies/Saved/Config/WindowsNoEditor/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.02.24-15.37.28:099][  0]LogConsoleResponse:Warning: Skipping Unknown console variable: 'UIScaleCurve = (EditorCurveData=(Keys=),ExternalCurve=None)'
+[2015.02.24-15.37.28:099][  0]LogConsoleResponse:Warning:   Found in ini file '../../../EmptySkies/Saved/Config/WindowsNoEditor/Engine.ini', in section '[/Script/Engine.RendererSettings]'
+[2015.02.24-15.37.28:101][  0]LogConsoleManager:Warning: Console variable 'r.MSAA.CompositingSampleCount' wasn't set (Priority ProjectSetting < Scalability)
+[2015.02.24-15.37.28:101][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2015.02.24-15.37.28:101][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2015.02.24-15.37.28:106][  0]LogInit: Computer: DILLONLAPTOP
+[2015.02.24-15.37.28:106][  0]LogInit: User: Dillon
+[2015.02.24-15.37.28:106][  0]LogInit: CPU Page size=4096, Cores=4
+[2015.02.24-15.37.28:106][  0]LogInit: High frequency timer resolution =2.338345 MHz
+[2015.02.24-15.37.28:106][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx) Virtual=131072.0GB
+[2015.02.24-15.37.28:106][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2015.02.24-15.37.28:106][  0]LogMemory: Process Physical Memory: 28.59 MB used, 28.59 MB peak
+[2015.02.24-15.37.28:106][  0]LogMemory: Process Virtual Memory: 19.34 MB used, 19.34 MB peak
+[2015.02.24-15.37.28:106][  0]LogMemory: Physical Memory: 2000.18 MB used, 8080.29 MB total
+[2015.02.24-15.37.28:106][  0]LogMemory: Virtual Memory: 190.67 MB used, 134217728.00 MB total
+[2015.02.24-15.37.28:647][  0]LogD3D11RHI: Found D3D11 adapter 0: NVIDIA GeForce GTX 770M (Feature Level 11_0)
+[2015.02.24-15.37.28:647][  0]LogD3D11RHI: Adapter has 2993MB of dedicated video memory, 0MB of dedicated system memory, and 4040MB of shared system memory, 1 output[s]
+[2015.02.24-15.37.28:661][  0]LogD3D11RHI: Found D3D11 adapter 1: NVIDIA GeForce GTX 770M (Feature Level 11_0)
+[2015.02.24-15.37.28:661][  0]LogD3D11RHI: Adapter has 2993MB of dedicated video memory, 0MB of dedicated system memory, and 4040MB of shared system memory, 0 output[s]
+[2015.02.24-15.37.28:662][  0]LogD3D11RHI: Found D3D11 adapter 2: Microsoft Basic Render Driver (Feature Level 11_0)
+[2015.02.24-15.37.28:662][  0]LogD3D11RHI: Adapter has 2993MB of dedicated video memory, 0MB of dedicated system memory, and 4040MB of shared system memory, 0 output[s]
+[2015.02.24-15.37.28:662][  0]LogD3D11RHI: Chosen D3D11 Adapter Id = 0
+[2015.02.24-15.37.28:666][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2015.02.24-15.37.28:681][  0]LogD3D11RHI: Async texture creation enabled
+[2015.02.24-15.37.28:723][  0]LogTextLocalizationManager: The requested culture ('en_US') has no localization data; parent culture's ('en') localization data will be used.
+[2015.02.24-15.37.28:746][  0]LogContentStreaming: Textu
