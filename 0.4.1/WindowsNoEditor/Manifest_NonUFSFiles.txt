@@ -12,6 +12,6 @@ Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2013\PhysX3CommonPROFILE_x64.
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2013\PhysX3CookingPROFILE_x64.dll	2015-02-25T21:59:19.570-06:00
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2013\PhysX3GpuPROFILE_x64.dll	2015-02-25T21:59:20.194-06:00
 Engine\Binaries\ThirdParty\PhysX\PhysX-3.3\Win64\VS2013\PhysX3PROFILE_x64.dll	2015-02-25T21:59:20.725-06:00
-Empty_Skies\Binaries\Win64\Empty_Skies.exe	2015-04-13T14:31:50.069-05:00
-Empty_Skies.exe	2015-04-13T14:32:50.033-05:00
-Engine\Build\build.properties	2015-03-24T16:28:05.808-05:00
+Empty_Skies\Binaries\Win64\Empty_Skies-Win64-DebugGame.exe	2015-04-22T15:13:23.547-05:00
+Empty_Skies.exe	2015-04-22T15:14:10.760-05:00
+Engine\Build\build.properties	2015-04-14T14:46:26.654-05:00
